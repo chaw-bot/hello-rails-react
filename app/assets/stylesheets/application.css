@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black !important;
+  color: white !important;
+  text-align: center;
+}
+
+.getBtn {
+  padding: 5%;
+  border: 3px solid greenyellow;
+  border-radius: 5px;
+  color: grey;
+}
+
+.greeting {
+  color: deeppink;
+}
